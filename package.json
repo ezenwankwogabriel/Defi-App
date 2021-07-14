@@ -1,0 +1,23 @@
+{
+  "name": "defiApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getMyTokenBalance.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezenwankwogabriel/Defi-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezenwankwogabriel/Defi-App/issues"
+  },
+  "homepage": "https://github.com/ezenwankwogabriel/Defi-App#readme"
+}
